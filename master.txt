@@ -1,0 +1,43 @@
+HEAD ROLE:
+  - You don't have to be in charge of scheduling, but you will need to make sure its happening.
+  - Act as voice of TA group, make sure there aren't any issues among TA's, handle communication between TA's and Admins/Instructors
+  - Don't expect the instructors to be there, if they ghost, you're next in line.
+  - Organize shit, because nobody else will.
+  - Push things off on MA if you have too much on your plate.
+
+EARLY COHORT:
+  - Relentlessly ask people to sit with other students. The sooner seating gets stale, the harder it is to correct.
+  - If students are having trouble with concepts at this point, the best thing to do is to relate concepts to real world examples; "a class is like a blueprint/factory, a module is like a toolbox, etc."
+  - If you hear someone (TA || Student) say ANYTHING incorrect about Ruby, HTML, etc. go ahead and correct them immediately. It's easier to correct this stuff early on than to have to deal with it blowing up later.
+  - Get in the mentor channel and try to drag some alum in. They can all work with the students on Ruby, and again, this is the time to be solidifying concepts && habits.
+  - The patterns and habits formed in the first week or so are essentially set in stone for the rest of the cohort, so do your best to correct things now.
+  - HAMMER THE 'STUDENT TIPS', the ones who read the shit consistently do better and understand their machines further.
+
+MID COHORT:
+  - This is when skill levels start visibly stratifying, be ready to delegate help so that the stronger TA's are hitting the harder questions
+  - As shitty as this is, the brighter students typically do not want to work with the weaker TA's, try to address this subtly, by taking those questions whenever you can.
+  - HACKATHON 1: Pick the teams (either by yourself or with the other TA's). Randomizing can end poorly.
+  - HACKATHON 1: "Business Pitches" have worked well in the past; 'Business X needs a tool built with the following features ... try to include as many as you can.'
+
+LATE COHORT:
+  - CAPSTONES: Be ready to start planning at the beginning of week 7. They need to know their teams by the end of the week (normally Friday)
+  - CAPSTONES: Announce capstones on Monday.
+  - CAPSTONES: Pitches must be submitted by Wednesday afternoon.
+  - CAPSTONES: Present pitches on Wednesday.
+  - CAPSTONES: Get team preference form out Wednesday after pitches, needs to be in by Thursday.
+  - CAPSTONES: Arrange teams to mitigate any weak points, try to balance students as well as you can (friend groups do not have to work together, unless it seems well balanced) [NO TEAMS LARGER THAN 4, does not work]
+  - CAPSTONES: Assign a TA to each capstone, or do them all yourself. Try to scrum them at the very least twice a week to keep their projects in line so we don't run into unattainable features/broken shit.
+  - HACKATHON 2: Try not to let it turn into "Capstone Day", it's lazy and they should be working on other projects to sharpen their skills
+  - Be sure the students are working on the lecture material / projects to some degree, they should still be getting what they're paying for
+  - To the best of your ability, don't let it turn into 4 straight weeks of capstones with no learning taking place.
+
+PAST ISSUES (watch out for these):
+  - Class needs more focus on project time. Students seemed to grasp things at a high level but couldn't implement a lot of things with the degree of aptitude that comes with actually writing code repeatedly.
+  - Students need to know that their attitude and behavior WILL directly affect how much they get out of the course, as well as how much they can get from the community. (If you think you're being an asshole, you probably are, and people will treat you as such.)
+  - We need to have somebody in the classroom all the time. If there isn't somebody in charge, the students leave.
+  - We should be more strict about seating not becoming stagnant. The students need to learn to work with everybody in the room. Not becoming comfortable with partners would mean more accountability as far as showing up and staying.
+  - Enforce attendance. (Students always ask why we did not.)
+  - Consider taking fewer breaks. They run long and eat into lecture time that could be happening before lunch rather than flowing into project time.
+  - Minimum of 4 weeks for capstone work. (Capstones formed sometime 5 weeks out. Everyone pitches, we 'pick' the teams and tell them who they work with.)
+  - No more, "I'll tell ____ to tell _____ this.", things get lost too easily and people get confused very quickly.
+  - There needs to be a consensus when posting to Slack. If you haven't read the thread yet, don't post. We continue having a problem with contradiction on Slack. If you aren't 100% sure on what you should be posting, ask or post about it in the DPL channel before posting to the cohort.

@@ -1,0 +1,62 @@
+- black box
+  -- You work as the sole member of the QA department at Black Box Co. The company has just finished production on their first Black Box. They bring you the first box with the instructions that you can put and apple in one hole and an orange will come out of the other. What tests will you perform on the box to assure its quality and functionality before it goes into production and is distributed to millions of people? [You cannot open the box]
+    + Intended outcome (sanity check)
+    + Input variance
+    + I/O
+    + Load
+    + Environment
+    + User
+
+- join table
+  -- In a simple real estate app, with DB tables for Agent [id, name] & Property [id, address, agent_id] write a SQL query that will return the address of every property, along with that property's agent's name, sorted by agent name
+    + SELECT address, a.name
+      FROM property p
+      INNER JOIN agent a
+      ON a.id = p.agent_id
+      ORDER BY a.name
+
+- ajax/custom rails route for some method
+  -- class UsersController < ApplicationController
+       def jump
+         puts "jumped #{params[:jumps]}"
+       end
+     end
+
+     write a route that I can POST to liek so: localhost:3000/jump/7
+     post '/jump/:jumps', to: 'users#jump', as: 'jump'
+
+     Ajax to the route:
+     $.ajax({
+      url: '/jumps/7'
+      type: 'POST'
+     })
+
+- diff between class/module
+  -- a class is a blueprint for an object that can be instantiated, a module cannot (more of a library)
+
+- reverse array without reverse
+  -- rev([1, 2, 3, 'hello'])
+    + def rev(arr)
+        new_arr = []
+        arr.each do |x|
+          new_arr.unshift(x)
+        end
+      end
+    + def rev(arr)
+        new_arr = []
+        while arr.length > 0
+          new_arr << arr.pop
+        end
+      end
+
+- fizzbuzz in js in ES6
+  -- takes in some number:
+      n / 3 ? -> 'Fizz'
+      n / 5 ? -> 'Buzz'
+      n / 3 & n / 5 ? -> 'Fizzbuzz'
+      ! -> n
+
+- explain componentWillMount(before render) vs componentDidMount(after render)
+- when is render called (when component mounts, forceupdate is called, recieves new props, state change)
+
+DONE:

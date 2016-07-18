@@ -1,0 +1,40 @@
+```
+When OS X Yosemite has many windows of apps or Finder open, WindowServer starts to consume an inordinate amount of resources. While this can happen in all versions of OS X (or any OS for that matter), there is something unique about Yosemite which causes this to be a particularly draining event.
+
+The solution is more user behavior oriented than anything else; get in the habit of closing unused windows or apps so they are no longer requiring resources.
+```
+
+- If you don’t religiously use Dropbox and Google Drive, or any other toolbar icon for that matter,  turn them off and deactivate their ‘open on login’ function
+
+- Reboot a few times a week at the least.
+
+- Go through your Dock and remove applications if you don’t use them regularly. You can link your applications folder down by the trash so that you have easy access to it. (You can link any folder to your dock by dragging it beside the trash bin, documents/downloads/user/utilities/etc.)
+
+- Clean it up. The less thinking your computer has to do to navigate your filesystem, the faster it’s going to run.
+
+- Memory != Storage. Look up the difference and learn how to manage each.
+
+- I use Disk Expert for storage, but Daisy Disk is really popular as well.
+
+https://itunes.apple.com/us/app/disk-expert-space-usage-analyzer/id488920185?mt=12
+https://itunes.apple.com/us/app/daisydisk/id411643860?mt=12
+
+- Gemini is amazing for getting rid of duplicates.
+
+https://itunes.apple.com/us/app/gemini-the-duplicate-finder/id463541543?mt=12
+
+- Memory Monitor is a free util that will track memory usage and dump chached/unused RAM.
+
+https://itunes.apple.com/us/app/memory-monitor-speed-up-your/id748212890?mt=12
+
+- As hard as it can be, I would say take anything off of your computer that you don’t really use. Organize, organize, organize. And keep a low profile when it comes to open windows and tabs. The rendering power it takes for your computer to keep 20+ Chrome tabs and 5 Sublime windows open is astonishing, and it will actually begin to damage the machine if thats normal behavior.
+
+- Your computer is your entire work environment now. You should know how it works. If you have any questions about how something works, how you could do something better, or have ANYTHING else that you want to know...
+
+- Look it up.
+
+- Or ask one of us. Chances are we have dealt with it before, and if we haven't, we would be more than happy to figure it out with you.
+
+^ If your computer does the thing where it doesn’t do the thing, try some of this, or ask us for help. Computers shouldn’t do that.(edited)
+
+This also applies to shells/terminal environments. We want you to like where you work.

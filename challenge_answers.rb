@@ -67,3 +67,4 @@ def perimeter(n)
   n.times { |x| a << a[-1] + a[-2] }
   a.inject(:+) * 4
 end
+# derp
